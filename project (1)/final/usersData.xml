@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><users xmlns="xml">
+  <user id="1">
+    <userName>userName1</userName>
+    <passWord>passWord</passWord>
+    <level>level</level>
+    <script>script</script>
+    <character>character</character>
+    <status>tienloi</status>
+  </user>
+  <user id="2">
+    <userName>userName2</userName>
+    <passWord>passWord</passWord>
+    <level>level</level>
+    <script>script</script>
+    <character>character</character>
+    <status>not login</status>
+  </user>
+  <user id="3">
+    <userName>userName3</userName>
+    <passWord>passWord</passWord>
+    <level>level</level>
+    <script>script</script>
+    <character>character</character>
+    <status>not login</status>
+  </user>
+</users>
